@@ -1,0 +1,7 @@
+Attrition,No,No,No,No,Yes,Yes,Yes,Yes
+,count,mean,median,std,count,mean,median,std
+Age,1233.0,37.56,36.0,8.89,237.0,33.61,32.0,9.69
+MonthlyIncome,1113.0,6878.23,5228.0,4816.71,210.0,4685.71,3150.5,3566.28
+YearsAtCompany,1233.0,7.37,6.0,6.1,237.0,5.13,3.0,5.95
+TotalWorkingYears,1233.0,11.86,10.0,7.76,237.0,8.24,7.0,7.17
+DistanceFromHome,1107.0,8.9,7.0,8.01,216.0,10.64,9.0,8.38

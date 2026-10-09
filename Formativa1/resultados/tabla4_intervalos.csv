@@ -1,0 +1,5 @@
+Parámetro,n,Estimación,IC inf,IC sup,Método
+Proporción de salida (%),1470,16.12,14.33,18.09,Wilson
+Ingreso mensual medio,1323,6530.21,6276.27,6784.15,t de Student
+Salida con horas extra = No (%),1054,10.44,8.73,12.43,Wilson
+Salida con horas extra = Yes (%),416,30.53,26.3,35.12,Wilson

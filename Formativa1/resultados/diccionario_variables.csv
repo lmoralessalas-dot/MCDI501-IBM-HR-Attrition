@@ -1,0 +1,36 @@
+Variable,Tipo estadístico,Tipo en Python,Valores distintos,Rol
+Age,Cuantitativa continua,int64,43,Contexto
+Attrition,Cualitativa nominal,str,2,Objetivo
+BusinessTravel,Cualitativa ordinal,str,3,Contexto
+DailyRate,Cuantitativa continua,int64,886,Contexto
+Department,Cualitativa nominal,str,3,Contexto
+DistanceFromHome,Cuantitativa continua,int64,29,Contexto
+Education,Cualitativa ordinal,int64,5,Contexto
+EducationField,Cualitativa nominal,str,6,Contexto
+EmployeeCount,Excluida,int64,1,Excluida (constante)
+EmployeeNumber,Excluida,int64,1470,Excluida (identificador)
+EnvironmentSatisfaction,Cualitativa ordinal,int64,4,Contexto
+Gender,Cualitativa nominal,str,2,Contexto
+HourlyRate,Cuantitativa continua,int64,71,Contexto
+JobInvolvement,Cualitativa ordinal,int64,4,Contexto
+JobLevel,Cualitativa ordinal,int64,5,Contexto
+JobRole,Cualitativa nominal,str,9,Contexto
+JobSatisfaction,Cualitativa ordinal,int64,4,Explicativa (pregunta)
+MaritalStatus,Cualitativa nominal,str,3,Contexto
+MonthlyIncome,Cuantitativa continua,int64,1349,Explicativa (pregunta)
+MonthlyRate,Cuantitativa continua,int64,1427,Contexto
+NumCompaniesWorked,Cuantitativa discreta,int64,10,Contexto
+Over18,Excluida,str,1,Excluida (constante)
+OverTime,Cualitativa nominal,str,2,Explicativa (pregunta)
+PercentSalaryHike,Cuantitativa continua,int64,15,Contexto
+PerformanceRating,Cualitativa ordinal,int64,2,Contexto
+RelationshipSatisfaction,Cualitativa ordinal,int64,4,Contexto
+StandardHours,Excluida,int64,1,Excluida (constante)
+StockOptionLevel,Cualitativa ordinal,int64,4,Contexto
+TotalWorkingYears,Cuantitativa continua,int64,40,Contexto
+TrainingTimesLastYear,Cuantitativa discreta,int64,7,Contexto
+WorkLifeBalance,Cualitativa ordinal,int64,4,Contexto
+YearsAtCompany,Cuantitativa continua,int64,37,Explicativa (pregunta)
+YearsInCurrentRole,Cuantitativa continua,int64,19,Contexto
+YearsSinceLastPromotion,Cuantitativa continua,int64,16,Contexto
+YearsWithCurrManager,Cuantitativa continua,int64,18,Contexto

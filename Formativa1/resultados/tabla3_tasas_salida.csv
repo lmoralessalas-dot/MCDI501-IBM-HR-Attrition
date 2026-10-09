@@ -1,0 +1,7 @@
+Variable,Categoría,n,salidas,% salida,IC inf,IC sup
+OverTime,No,1054,110,10.44,8.73,12.43
+OverTime,Yes,416,127,30.53,26.3,35.12
+JobSatisfaction,1,289,66,22.84,18.37,28.01
+JobSatisfaction,2,280,46,16.43,12.55,21.22
+JobSatisfaction,3,442,73,16.52,13.35,20.26
+JobSatisfaction,4,459,52,11.33,8.74,14.56
