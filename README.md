@@ -2,7 +2,7 @@
 
 Proyecto del curso **Estadística Computacional para la Toma de Decisiones (MCDI501)**, Magíster en Ciencia de Datos e Inteligencia Artificial, Universidad Andrés Bello.
 
-**Equipo:** Hernán Saavedra · Lenin Morales Salas · Rodrigo Gómez
+**Equipo:** Hernán Saavedra González · Lenin Morales Salas · Rodrigo Gómez Indellicati
 **Docente:** Jean Paul Maidana
 
 ## Pregunta de investigación
